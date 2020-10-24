@@ -24,7 +24,7 @@ This set of scripts automates the creationg of all minimal pre-requisites to set
 
 ### 1. Clone this repository
 ```
-git clone https://github.com/paulvid/cdp_create_env_aws.git
+git clone https://github.com/Govind66/cdp_aws_env.git
 ```
 
 ### 2. Run the following scripts in order
