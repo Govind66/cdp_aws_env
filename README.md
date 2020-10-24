@@ -72,4 +72,4 @@ cdp_describe_env.sh <prefix>
 
 # Authors
 
-**Paul Vidal** - *Initial work* - [LinkedIn](https://www.linkedin.com/in/paulvid/)
+**Govinda Tathe** - *Initial work* - [https://www.linkedin.com/in/govinda-tathe-l-i-o-n-861599103)
